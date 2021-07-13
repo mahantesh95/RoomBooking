@@ -23,6 +23,10 @@ code {
     margin-top: 150px;
 }
 
+.demo {
+    color: white;
+}
+
 .row {
     display: flex;
     justify-content: space-between;
